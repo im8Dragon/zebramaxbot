@@ -3,3 +3,5 @@ trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMW1saWJMMUxuQnNuNldyOHM0clZn@p2tun4.greewebservices.ir:1040?#%40Zebramaxbot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMW1saWJMMUxuQnNuNldyOHM0clZn@p2tun2.greewebservices.ir:1020?#%40Zebramaxbot
+
+vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.237.245:443?encryption=none&security=tls&sni=global.fastly.com&fp=firefox&type=ws&host=Tirandazl.global.ssl.fastly.net&path=%2F#%40Zebramaxbot
