@@ -1,7 +1,3 @@
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=tcp&headerType=none#%D8%AF%D8%B1%20%D8%B5%D9%88%D8%B1%D8%AA%DB%8C%20%DA%A9%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%DB%8C%20%DA%A9%D8%A7%D8%B1%20%D9%86%DA%A9%D8%B1%D8%AF%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8%20%D8%AE%D9%88%D8%AF%20%D8%B1%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF
 
-vless://e5612a7f-534f-4316-b1c9-6c17390527fc@146.75.119.82:80?path=ws%2F%3Fed&security=&encryption=none&host=rb24.ir&type=ws#@Zebramax
-
-vless://c729c83f-b1ca-4d36-90be-66a1e250b37b@87.120.106.214:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=djpb2hzoaa71.dx4x.com#@Zebramax
-
-trojan://humanity@172.67.139.14:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#@Zebramax
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@Zebramax
