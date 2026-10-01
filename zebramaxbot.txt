@@ -1,5 +1,7 @@
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=tcp&headerType=none#%D8%AF%D8%B1%20%D8%B5%D9%88%D8%B1%D8%AA%DB%8C%20%DA%A9%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%DB%8C%20%DA%A9%D8%A7%D8%B1%20%D9%86%DA%A9%D8%B1%D8%AF%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8%20%D8%AE%D9%88%D8%AF%20%D8%B1%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF
 
+vless://55af8466-53cd-46f4-aef9-5378f5ac34a4@n2.akan1.ir:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=home.akan1.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=home.akan1.ir#@Zebramax1
+
 vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.237.245:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=BechBad.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Zebramax
 
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@Zebramax
