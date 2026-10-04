@@ -1,7 +1,5 @@
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=tcp&headerType=none#%D8%AF%D8%B1%20%D8%B5%D9%88%D8%B1%D8%AA%DB%8C%20%DA%A9%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%DB%8C%20%DA%A9%D8%A7%D8%B1%20%D9%86%DA%A9%D8%B1%D8%AF%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8%20%D8%AE%D9%88%D8%AF%20%D8%B1%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcjNSTEhKTG5nYnBsUFdk@20.238.125.195:443?#%40Zebramaxbot
+vless://5ff69dde-8a9e-453f-8b01-b8717a438019@dbd.forcebook.ir:443?encryption=none&security=reality&sni=kbr.esvacloud.com&fp=chrome&pbk=Kdyq5RcEkVaFdU3vqbMjWWCg4P_a_rsZFVLDchtzJW8&sid=65427af7cc34ad59&type=xhttp&path=%2Fapi%2Fv2%2Fevents&mode=auto#%40Zebramaxbot
 
-trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmlunch.com&fp=unsafe&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=www.calmlunch.com&path=%2F%2Fassignment#Zebramaxbot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcjNSTEhKTG5nYnBsUFdk@20.238.125.195:443?#Zebramaxbot
+trojan://mitivpn@167.82.76.27:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&path=%2F---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11%2FNLSus---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11#%40Zebramaxbot
