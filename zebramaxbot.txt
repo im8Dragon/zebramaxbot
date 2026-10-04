@@ -1,3 +1,7 @@
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=tcp&headerType=none#%D8%AF%D8%B1%20%D8%B5%D9%88%D8%B1%D8%AA%DB%8C%20%DA%A9%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%DB%8C%20%DA%A9%D8%A7%D8%B1%20%D9%86%DA%A9%D8%B1%D8%AF%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8%20%D8%AE%D9%88%D8%AF%20%D8%B1%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF
 
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c1VSNk55OFk2UFN2SGhsL0RVeGNvbnd4ZzZWWnlGZHNkZmFWQ3ZFYXRKbz06N2JURWhIZ3BFcktpUmpFMWVnYStINnBjcEpzTkxGQjBDalFzZXVqQUhyQT0@129.150.59.74:14384?#%40Zebramaxbot
+vless://f59b99d0-8367-4aac-b2c5-11a95db9c477@94.184.33.86:3031?encryption=mlkem768x25519plus.native.0rtt.KqYOFcemEvXxGLeolPr3Ai1nSTC2CrWASzxHQIHG-RM&flow=xtls-rprx-vision&security=reality&sni=bahr7.ir&fp=chrome&pbk=l2unTBuRHexTbvTYt684_HlcJjk9_643GMbkeN0yHkU&sid=7cc9&spx=%2F5db7bf21c2b3127&type=xhttp&host=pannelman.pannelman.ir&path=%2Fxhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%40Zebramaxbot
+
+vless://f59b99d0-8367-4aac-b2c5-11a95db9c477@94.184.33.86:7083?encryption=mlkem768x25519plus.native.0rtt.18L578nnlFIMp3zp0gKPXZWWgy9_hbqlWhpzqRAfLBI&security=none&type=ws&host=pannelman.pannelman.ir&path=%2F#%40Zebramaxbot
+
+vless://f59b99d0-8367-4aac-b2c5-11a95db9c477@94.184.33.86:2032?encryption=mlkem768x25519plus.native.0rtt.i3jOugnyZM5GX7OUtp8_m4RvS6iSbFimTHU0YGF1ul8&flow=xtls-rprx-vision&security=reality&sni=varzesh3.com&fp=chrome&pbk=jO4TejZAqu6Zx4ecwoaEU0BV-RHPUFsuws95wIKxBUQ&sid=3deed3a16e&spx=%2Fb7f6a4392a77439&type=xhttp&host=pannelman.pannelman.ir&path=%2Fxhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%40Zebramaxbot
